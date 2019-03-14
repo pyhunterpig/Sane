@@ -14,8 +14,9 @@ maintained by Ralph Heinkel. It is currently maintained by Sandro Mani.
 Build
 -----
 
-To build this module, make sure the sane development package is installed. ::
-        apt-get install sane libsane-dev
+To build this module, make sure the sane development package is installed. :
+
+	apt-get install sane libsane-dev
 
 Then, type::
 
